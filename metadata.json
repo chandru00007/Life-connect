@@ -1,0 +1,7 @@
+{
+  "name": " LIFE CONNECT",
+  "description": "A premium React web application to manage organ donation pledges, recipient waitlists, and simulate organ matching, running entirely offline with local data persistence.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
